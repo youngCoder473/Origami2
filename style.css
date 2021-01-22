@@ -1,0 +1,24 @@
+h1{
+    color : greenyellow 
+}
+h2{
+    color : yellow
+}
+h1{
+    border : solid
+}
+
+p{
+    color : lightblue
+}
+
+.header{
+    background-color: lightblue;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
